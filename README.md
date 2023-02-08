@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am currently working on my MS in Computational Analysis and Public Policy at The University of Chicago;<br>     🎓 BA Astrophysics & English from Wellesley College<br>🌱 I am passionate about data science/analysis as it relates to environmental justice policy<br>🔭 I have a background in physics research <br>🛹 I love to skateboard, crochet, and hike<br><br>
+🎓 I am currently working on my MS in Computational Analysis and Public Policy at The University of Chicago;<br>     🎓 BA Astrophysics & English from Wellesley College<br>🌱 I am passionate about data science/analysis as it relates to environmental justice policy<br>🔭 I have a background in physics research <br>🛹 I love to skateboard, crochet, and hike<br><br><br>CURRENTLY LEARNING: git branching, data linkage
 
 
 ## 🌐 Socials:
